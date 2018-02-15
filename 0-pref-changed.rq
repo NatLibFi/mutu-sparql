@@ -1,0 +1,28 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosext: <http://purl.org/finnonto/schema/skosext#>
+PREFIX dc11: <http://purl.org/dc/elements/1.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX puhometa: <http://www.yso.fi/onto/puho-meta/>
+PREFIX ysometa: <http://www.yso.fi/onto/yso-meta/2007-03-02/>
+
+SELECT DISTINCT ?domainc ?domainPref ?pref ?newPref
+WHERE {
+  #?domainc owl:equivalentClass ?ysoLink .
+  ?domainc rdfs:subClassOf ?ysoc .
+  ?domainc skos:prefLabel ?domainPref .
+  FILTER(lang(?domainPref) = 'fi')
+  ?ysoc a ysometa:Concept .
+  ?domainc a puhometa:Concept .
+  ?ysoc skos:prefLabel ?pref
+  FILTER(lang(?pref) = 'fi')
+  GRAPH ?yso {
+    ?ysoc a ysometa:Concept .
+    ?ysoc skos:prefLabel ?newPref .
+    FILTER(lang(?newPref) = 'fi')
+  }
+  FILTER NOT EXISTS { GRAPH ?yso { ?ysoc owl:deprecated true . } }
+  FILTER NOT EXISTS { GRAPH ?yso { ?ysoc rdf:type <http://www.yso.fi/onto/yso-meta/Hierarchy> . } }
+  FILTER NOT EXISTS { GRAPH ?yso { ?ysoc skos:prefLabel ?pref . } }
+}

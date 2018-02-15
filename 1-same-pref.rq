@@ -1,0 +1,29 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosext: <http://purl.org/finnonto/schema/skosext#>
+PREFIX dc11: <http://purl.org/dc/elements/1.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX puhometa: <http://www.yso.fi/onto/puho-meta/>
+PREFIX ysometa: <http://www.yso.fi/onto/yso-meta/>
+PREFIX yso-meta: <http://www.yso.fi/onto/yso-meta/2007-03-02/>
+PREFIX : <.>
+
+SELECT DISTINCT ?domainc ?prefLabel ?sameNew ?sameOld
+WHERE {
+  ?domainc skos:prefLabel ?prefLabel .
+  ?domainc a puhometa:Concept .
+  FILTER(lang(?prefLabel) = 'fi')
+  OPTIONAL { ?sameOld skos:prefLabel ?prefLabel .
+             ?sameOld a ysometa:Concept . }
+  OPTIONAL { ?sameOld skos:prefLabel ?prefLabel .
+             ?sameOld a yso-meta:Concept . }
+  GRAPH ?yso {
+    ?sameNew skos:prefLabel ?prefLabel .
+    #FILTER NOT EXISTS { ?sameNew owl:deprecated true . }
+  }
+  FILTER NOT EXISTS { ?domainc skos:exactMatch ?sameOld }
+  FILTER NOT EXISTS { ?domainc skos:exactMatch ?sameNew }
+  OILTER NOT EXISTS { GRAPH ?yso { ?sameOld owl:deprecated true . } }
+  FILTER NOT EXISTS { GRAPH ?yso { ?sameNew owl:deprecated true . } }
+} ORDER BY ?domainc

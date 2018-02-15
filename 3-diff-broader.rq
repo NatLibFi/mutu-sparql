@@ -1,0 +1,28 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosext: <http://purl.org/finnonto/schema/skosext#>
+PREFIX dc11: <http://purl.org/dc/elements/1.1/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX puhometa: <http://www.yso.fi/onto/puho-meta/>
+PREFIX ysometa: <http://www.yso.fi/onto/yso-meta/>
+PREFIX yso-meta: <http://www.yso.fi/onto/yso-meta/2007-03-02/>
+
+SELECT DISTINCT ?domainc ?prefLabel ?ysoLinkLab ?ysoBroaderLab #?puhoPref ?broadPref ?newPref
+WHERE {
+  #?domainc rdfs:subClassOf|owl:equivalentClass ?ysoLink .
+  ?domainc rdfs:subClassOf ?ysoLink .
+  ?domainc skos:prefLabel ?prefLabel .
+  FILTER (lang(?prefLabel) = 'fi')
+  ?domainc a puhometa:Concept .
+  GRAPH ?yso {
+    ?ysoLink rdfs:subClassOf* ?ysoBroader .
+    ?ysoBroader skos:prefLabel ?ysoBroaderLab .
+    FILTER(lang(?ysoBroaderLab) = 'fi')
+    ?ysoLink skos:prefLabel ?ysoLinkLab .
+    FILTER (lang(?ysoLinkLab) = 'fi')
+  }
+  FILTER NOT EXISTS { GRAPH <http://www.yso.fi/onto/puho/> { ?ysoLink skos:broader* ?ysoBroader . } }
+  FILTER NOT EXISTS { GRAPH ?yso { ?ysoBroader owl:deprecated true . } }
+  #FILTER NOT EXISTS { GRAPH ?yso { ?ysoBroader rdf:type <http://www.yso.fi/onto/yso-meta/Hierarchy> . } }
+} ORDER BY ?domainc
