@@ -1,0 +1,432 @@
+puhoc ,prefLabel ,ysoLinkLab ,ysoBroaderLab 
+http://www.yso.fi/onto/puho/ph1037 ,historia ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1037 ,historia ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1038 ,sotahistoria ,historia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1038 ,sotahistoria ,historia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph104 ,sähkötekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph104 ,sähkötekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1047 ,massamuistit ,muistit (tietotekniikka) ,atk-laitteet 
+http://www.yso.fi/onto/puho/ph105 ,tekniikka ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph105 ,tekniikka ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1077 ,analyyttinen kemia ,kemia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1077 ,analyyttinen kemia ,kemia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1078 ,kemia ,luonnontieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1078 ,kemia ,luonnontieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1101 ,hydrodynamiikka ,dynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1101 ,hydrodynamiikka ,hydromekaniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1101 ,hydrodynamiikka ,dynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1101 ,hydrodynamiikka ,hydromekaniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1131 ,perävaunut ,vaunut ,kuljetusvälineet 
+http://www.yso.fi/onto/puho/ph1131 ,perävaunut ,vaunut ,välineet 
+http://www.yso.fi/onto/puho/ph1136 ,lentotekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1136 ,lentotekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1149 ,ravitsemus ,biologiset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1153 ,hankinta ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph116 ,moraali ,kulttuuriset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph116 ,moraali ,kulttuuriset ilmiöt ,yhteiskunnalliset ilmiöt 
+http://www.yso.fi/onto/puho/ph1180 ,työmotivaatio ,motivaatio ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1180 ,työmotivaatio ,motivaatio ,mentaaliset objektit 
+http://www.yso.fi/onto/puho/ph1201 ,sotilasmusiikki ,musiikki ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1201 ,sotilasmusiikki ,musiikki ,esittävät taiteet 
+http://www.yso.fi/onto/puho/ph1201 ,sotilasmusiikki ,musiikki ,kulttuuriset objektit 
+http://www.yso.fi/onto/puho/ph1205 ,julkinen hallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1205 ,julkinen hallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1215 ,ammattitaudit ,taudit ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1217 ,maanpetos ,valtiorikokset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1217 ,maanpetos ,valtiorikokset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1218 ,valtiorikokset ,rikokset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1218 ,valtiorikokset ,rikokset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1219 ,valtiopetos ,valtiorikokset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1219 ,valtiopetos ,valtiorikokset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph123 ,optiikka ,fysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph123 ,optiikka ,fysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1231 ,taloushallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1231 ,taloushallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1242 ,kuntotestit ,testit ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1256 ,lääketiede ,soveltavat tieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1256 ,lääketiede ,soveltavat tieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1262 ,matematiikka ,käsitteelliset tieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1262 ,matematiikka ,käsitteelliset tieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1265 ,kuituoptiikka ,optiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1265 ,kuituoptiikka ,optiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1269 ,sotatila ,poikkeusolot ,olosuhteet 
+http://www.yso.fi/onto/puho/ph1269 ,sotatila ,poikkeusolot ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1276 ,varustaminen ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1298 ,puolustustarviketeollisuus ,teollisuus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1298 ,puolustustarviketeollisuus ,teollisuus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1305 ,ampumaoppi ,sotatiede ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1305 ,ampumaoppi ,sotatiede ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1310 ,kenttäkelpoisuus ,kelpoisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1326 ,pakolaisleirit ,leirit ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1326 ,pakolaisleirit ,leirit ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1328 ,palavat nesteet ,nesteet ,fluidit 
+http://www.yso.fi/onto/puho/ph1331 ,sotilaslääketiede ,lääketiede ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1331 ,sotilaslääketiede ,lääketiede ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1335 ,juhlapäivät ,vuotuisjuhlat ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1336 ,perinteet ,kulttuuriset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1336 ,perinteet ,kulttuuriset ilmiöt ,yhteiskunnalliset ilmiöt 
+http://www.yso.fi/onto/puho/ph1341 ,aseelliset selkkaukset ,konfliktit ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1342 ,energiantuotanto ,prosessiteollisuus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1342 ,energiantuotanto ,prosessiteollisuus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1346 ,rauhan aika ,yhteiskunnalliset ajanjaksot ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1348 ,sodan aika ,yhteiskunnalliset ajanjaksot ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1349 ,rauhanaate ,ideologiat ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1349 ,rauhanaate ,ideologiat ,kulttuuriset objektit 
+http://www.yso.fi/onto/puho/ph136 ,sotatalous ,talous ,järjestelmät 
+http://www.yso.fi/onto/puho/ph136 ,sotatalous ,talous ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1361 ,valmiustilat ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1372 ,työtapaturmat ,tapaturmat ,onnettomuudet 
+http://www.yso.fi/onto/puho/ph1378 ,fysiologia ,biologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1378 ,fysiologia ,biologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1379 ,magnetismi ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1381 ,fysikaalinen kemia ,kemia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1381 ,fysikaalinen kemia ,kemia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,lämmön siirtyminen ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,lämmön siirtyminen ,tapahtumat 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,lämmön siirtyminen ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1383 ,lämpösäteily ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1384 ,ionisoiva säteily ,säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1384 ,ionisoiva säteily ,säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph1384 ,ionisoiva säteily ,säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1388 ,kryptologia ,matematiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1388 ,kryptologia ,matematiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1406 ,kansainvälinen oikeus ,julkisoikeus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1406 ,kansainvälinen oikeus ,julkisoikeus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1433 ,talouspakotteet ,pakotteet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1433 ,talouspakotteet ,pakotteet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1434 ,kauppa ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1439 ,palvelusrikkomukset ,rikkomukset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1439 ,palvelusrikkomukset ,rikkomukset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1444 ,paloturvallisuus ,turvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1444 ,paloturvallisuus ,turvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1445 ,psykologia ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1445 ,psykologia ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1451 ,joukkopsykologia ,psykologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1451 ,joukkopsykologia ,psykologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1453 ,puolustushallinto ,hallinnonalat ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1453 ,puolustushallinto ,hallinnonalat ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1454 ,puolustusmenot ,menot ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1454 ,puolustusmenot ,menot ,taloudelliset tuotokset 
+http://www.yso.fi/onto/puho/ph1454 ,puolustusmenot ,menot ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1455 ,puolustusmäärärahat ,määrärahat ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1455 ,puolustusmäärärahat ,määrärahat ,taloudelliset tuotokset 
+http://www.yso.fi/onto/puho/ph1455 ,puolustusmäärärahat ,määrärahat ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph146 ,sodanuhka ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1461 ,tilausvaltuudet ,valtuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1461 ,tilausvaltuudet ,valtuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1463 ,vastakaupat ,kauppa ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph147 ,poikkeusolot ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1485 ,tietosuoja ,tietoturva ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1485 ,tietosuoja ,tietoturva ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph1485 ,tietosuoja ,tietoturva ,turvallisuus 
+http://www.yso.fi/onto/puho/ph1485 ,tietosuoja ,tietoturva ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1489 ,toimivalta ,valta ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1489 ,toimivalta ,valta ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1492 ,toimivaltuudet ,valtuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1492 ,toimivaltuudet ,valtuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1493 ,toksikologia ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1493 ,toksikologia ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1494 ,ultraviolettisäteily ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1494 ,ultraviolettisäteily ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph1494 ,ultraviolettisäteily ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1495 ,sähköturvallisuus ,turvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1495 ,sähköturvallisuus ,turvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1509 ,konetekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1509 ,konetekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1527 ,metrologia ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1527 ,metrologia ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph153 ,sääilmiöt ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1538 ,hypotermia ,biologiset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1539 ,kylmyys ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1541 ,biologia ,biotieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1541 ,biologia ,biotieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1550 ,biokemia ,biotieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1550 ,biokemia ,kemia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1550 ,biokemia ,biotieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1550 ,biokemia ,kemia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1556 ,orgaaninen kemia ,kemia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1556 ,orgaaninen kemia ,kemia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1564 ,ilmasto ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1576 ,psykologiset testit ,testit ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1585 ,kulkuneuvotekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1585 ,kulkuneuvotekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph159 ,säteily ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1596 ,ulkoasiainhallinto ,hallinnonalat ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1596 ,ulkoasiainhallinto ,hallinnonalat ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1597 ,viholliskuvat ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph160 ,valtaus ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1601 ,työtyytyväisyys ,tyytyväisyys ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1601 ,työtyytyväisyys ,tyytyväisyys ,mentaaliset objektit 
+http://www.yso.fi/onto/puho/ph1602 ,työilmapiiri ,ilmapiiri ,olosuhteet 
+http://www.yso.fi/onto/puho/ph1602 ,työilmapiiri ,ilmapiiri ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1609 ,bakteriologia ,mikrobiologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1609 ,bakteriologia ,mikrobiologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1612 ,säähavainnot ,havainnot ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1612 ,säähavainnot ,havainnot ,mentaaliset objektit 
+http://www.yso.fi/onto/puho/ph1613 ,tuuli ,sääilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph162 ,valloitus ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1632 ,valta ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1647 ,merivartioalueet ,organisaatio (ilmiöt) ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1647 ,merivartioalueet ,organisaatio (ilmiöt) ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph165 ,miehitys ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1660 ,pneumatiikka ,dynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1660 ,pneumatiikka ,kaasujen fysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1660 ,pneumatiikka ,dynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1660 ,pneumatiikka ,kaasujen fysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1661 ,hydrauliikka ,hydrodynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1661 ,hydrauliikka ,hydrodynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1663 ,biotekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1663 ,biotekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1689 ,merikelpoisuus ,kelpoisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1712 ,radioaallot ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1712 ,radioaallot ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph1712 ,radioaallot ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1713 ,päihdeongelmat ,sosiaaliset ongelmat ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1725 ,akustiikka ,fysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1725 ,akustiikka ,fysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph173 ,radioaktiivinen säteily ,ionisoiva säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph173 ,radioaktiivinen säteily ,ionisoiva säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph173 ,radioaktiivinen säteily ,ionisoiva säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1731 ,salassapitovelvollisuus ,velvollisuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1731 ,salassapitovelvollisuus ,velvollisuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1736 ,tuotantotekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1736 ,tuotantotekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1737 ,tuoteturvallisuus ,turvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1737 ,tuoteturvallisuus ,turvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1751 ,sumu ,sääilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1752 ,sulautetut järjestelmät ,tietotekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1752 ,sulautetut järjestelmät ,tietotekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1754 ,suojaetäisyys ,etäisyys ,fyysiset ominaisuudet 
+http://www.yso.fi/onto/puho/ph1790 ,meteorologia ,geofysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1790 ,meteorologia ,geofysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1814 ,tietokonevirukset ,haittaohjelmat ,tekniset objektit (abstraktit objektit) 
+http://www.yso.fi/onto/puho/ph1814 ,tietokonevirukset ,haittaohjelmat ,tietokoneohjelmat 
+http://www.yso.fi/onto/puho/ph1820 ,vankileirit ,leirit ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1820 ,vankileirit ,leirit ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1823 ,keskitysleirit ,leirit ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1823 ,keskitysleirit ,leirit ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1830 ,meripelastus ,vesipelastus ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph1830 ,meripelastus ,vesipelastus ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1830 ,meripelastus ,vesipelastus ,toiminta 
+http://www.yso.fi/onto/puho/ph1841 ,pelko (tunteet) ,tunteet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1841 ,pelko (tunteet) ,tunteet ,mentaaliset objektit 
+http://www.yso.fi/onto/puho/ph1847 ,teollisuuspolitiikka ,talouspolitiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1847 ,teollisuuspolitiikka ,talouspolitiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1849 ,kansallispäivät ,juhlapäivät ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1856 ,seismologia ,geofysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1856 ,seismologia ,geofysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1873 ,kenttäkokeet ,kokeet ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph1877 ,asiakastyytyväisyys ,tyytyväisyys ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1877 ,asiakastyytyväisyys ,tyytyväisyys ,mentaaliset objektit 
+http://www.yso.fi/onto/puho/ph1895 ,sotateollisuus ,teollisuus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1895 ,sotateollisuus ,teollisuus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1896 ,aseteollisuus ,teollisuus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1896 ,aseteollisuus ,teollisuus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1900 ,epäorgaaninen kemia ,kemia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1900 ,epäorgaaninen kemia ,kemia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1902 ,etiikka ,filosofia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1902 ,etiikka ,filosofia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1904 ,energia ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph1928 ,materiaalihallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1928 ,materiaalihallinto ,talous ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1928 ,materiaalihallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1928 ,materiaalihallinto ,talous ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1935 ,yksilönvapaus ,perusoikeudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1935 ,yksilönvapaus ,perusoikeudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1936 ,sananvapaus ,perusoikeudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph1936 ,sananvapaus ,perusoikeudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1946 ,itsenäisyyspäivät ,juhlapäivät ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph195 ,sotilasavustukset ,sosiaalietuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph195 ,sotilasavustukset ,sosiaalietuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph1954 ,sotatieteet ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1954 ,sotatieteet ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1975 ,sotilaspolitiikka ,politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1975 ,sotilaspolitiikka ,politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1976 ,sotilaspedagogiikka ,pedagogiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1976 ,sotilaspedagogiikka ,pedagogiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph1978 ,sotilassosiologia ,sosiologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph1978 ,sotilassosiologia ,sosiologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph2 ,kokoontumisvapaus ,perusoikeudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph2 ,kokoontumisvapaus ,perusoikeudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph20 ,kansalaisvelvollisuudet ,velvollisuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph20 ,kansalaisvelvollisuudet ,velvollisuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph2005 ,puolustusvoimien toimialat ,toimialat ,järjestelmät 
+http://www.yso.fi/onto/puho/ph2005 ,puolustusvoimien toimialat ,toimialat ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph2046 ,viihdytysjoukot ,viihde ,muu rooli 
+http://www.yso.fi/onto/puho/ph2046 ,viihdytysjoukot ,viihde ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph2046 ,viihdytysjoukot ,viihde ,rooli (tehtävä) 
+http://www.yso.fi/onto/puho/ph2051 ,avaruuden sotilaallinen käyttö ,avaruustekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph2051 ,avaruuden sotilaallinen käyttö ,avaruustekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph206 ,soveltuvuustestit ,psykologiset testit ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph2066 ,operaatioalue ,operaatiot ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph207 ,testit ,kokeet ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph211 ,tietoturvallisuus ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph215 ,ydinkokeet ,asekokeet ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph216 ,varustautuminen ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph2167 ,ennaltaehkäisykyky ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph220 ,suurvaltapolitiikka ,kansainvälinen politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph220 ,suurvaltapolitiikka ,kansainvälinen politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph2250 ,strateginen kumppanuus ,kumppanuus ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph2288 ,Puolustusvoimien prosessit ,prosessit ,tapahtumat 
+http://www.yso.fi/onto/puho/ph2361 ,kriittinen infrastruktuuri ,infrastruktuurit ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph247 ,arkistotoimi ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph247 ,arkistotoimi ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph251 ,kirjastotoimi ,sivistystoimi ,järjestelmät 
+http://www.yso.fi/onto/puho/ph251 ,kirjastotoimi ,sivistystoimi ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph252 ,asiakirjahallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph252 ,asiakirjahallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph257 ,lentomelu ,liikennemelu ,haitat 
+http://www.yso.fi/onto/puho/ph257 ,lentomelu ,liikennemelu ,muu rooli 
+http://www.yso.fi/onto/puho/ph257 ,lentomelu ,liikennemelu ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph257 ,lentomelu ,liikennemelu ,rooli (tehtävä) 
+http://www.yso.fi/onto/puho/ph257 ,lentomelu ,liikennemelu ,vaikutukset 
+http://www.yso.fi/onto/puho/ph258 ,melu ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph261 ,yhteiskunnan haavoittuvuus ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph266 ,sähködynamiikka ,dynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph266 ,sähködynamiikka ,sähköoppi ,järjestelmät 
+http://www.yso.fi/onto/puho/ph266 ,sähködynamiikka ,dynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph266 ,sähködynamiikka ,sähköoppi ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph267 ,dynamiikka ,mekaniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph267 ,dynamiikka ,mekaniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph272 ,järjestäytynyt rikollisuus ,rikollisuus ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph291 ,henkilöstöhallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph291 ,henkilöstöhallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph3 ,perusoikeudet ,oikeudet (edut) ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph3 ,perusoikeudet ,oikeudet (edut) ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph31 ,palveluskelpoisuus ,kelpoisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph325 ,aselepo ,yhteiskunnalliset ajanjaksot ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph326 ,rauha ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph349 ,sotarikokset ,rikokset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph349 ,sotarikokset ,rikokset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph350 ,kansanmurha ,murha ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph350 ,kansanmurha ,murha ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph355 ,mittaustekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph355 ,mittaustekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph365 ,sähkömagneettinen säteily ,säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph365 ,sähkömagneettinen säteily ,säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph365 ,sähkömagneettinen säteily ,säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph369 ,sotilaspsykologia ,psykologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph369 ,sotilaspsykologia ,psykologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph370 ,infrapunasäteily ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph370 ,infrapunasäteily ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph370 ,infrapunasäteily ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph38 ,radiotekniikka ,tietoliikennetekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph38 ,radiotekniikka ,tietoliikennetekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph385 ,ilmansuodattimet ,suodattimet ,tekniset objektit (fyysiset objektit) 
+http://www.yso.fi/onto/puho/ph39 ,tietoliikennetekniikka ,viestintätekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph39 ,tietoliikennetekniikka ,viestintätekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph399 ,turbulenssi ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph410 ,fysiikka ,luonnontieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph410 ,fysiikka ,luonnontieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph411 ,aerodynamiikka ,aeromekaniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph411 ,aerodynamiikka ,dynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph411 ,aerodynamiikka ,aeromekaniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph411 ,aerodynamiikka ,dynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph412 ,mekaniikka ,fysiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph412 ,mekaniikka ,fysiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph416 ,sade ,sääilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph427 ,virologia ,mikrobiologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph427 ,virologia ,mikrobiologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph429 ,virtuaalitodellisuus ,todellisuus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph433 ,rintamakarkuruus ,sotilaskarkuruus ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph433 ,rintamakarkuruus ,sotilaskarkuruus ,rikokset 
+http://www.yso.fi/onto/puho/ph433 ,rintamakarkuruus ,sotilaskarkuruus ,tapahtumat 
+http://www.yso.fi/onto/puho/ph433 ,rintamakarkuruus ,sotilaskarkuruus ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph433 ,rintamakarkuruus ,sotilaskarkuruus ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph434 ,sotilasrikokset ,rikokset ,oikeudelliset tapahtumat 
+http://www.yso.fi/onto/puho/ph434 ,sotilasrikokset ,rikokset ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph435 ,sotilaskarkuruus ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph437 ,työturvallisuus ,turvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph437 ,työturvallisuus ,turvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph445 ,tietotekniikka ,tieto- ja viestintätekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph445 ,tietotekniikka ,tieto- ja viestintätekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph45 ,heraldiikka ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph45 ,heraldiikka ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph454 ,aseidenriisunta ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph457 ,asevarustelu ,omistuksen siirtäminen ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph468 ,mellakantorjunta ,yleinen järjestys ,olosuhteet 
+http://www.yso.fi/onto/puho/ph468 ,mellakantorjunta ,yleinen järjestys ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph472 ,terrorismi ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph474 ,kansainvälinen rikollisuus ,rikollisuus ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph475 ,pakolaisongelma ,ongelmat ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph480 ,julkiset hankinnat ,hankinta ,keskinäinen toiminta 
+http://www.yso.fi/onto/puho/ph482 ,kartografia ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph482 ,kartografia ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph511 ,liikenneturvallisuus ,turvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph511 ,liikenneturvallisuus ,turvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph513 ,liikkumisvapaus ,perusoikeudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph513 ,liikkumisvapaus ,perusoikeudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph52 ,lentoturvallisuus ,liikenneturvallisuus ,mentaaliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph52 ,lentoturvallisuus ,liikenneturvallisuus ,yhteiskunnalliset ominaisuudet 
+http://www.yso.fi/onto/puho/ph546 ,mikroaallot ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph546 ,mikroaallot ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph546 ,mikroaallot ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph559 ,henkilöstösuunnittelu ,henkilöstöhallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph559 ,henkilöstösuunnittelu ,henkilöstöhallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph560 ,palkkaus ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph564 ,tietohallinto ,hallinto ,järjestelmät 
+http://www.yso.fi/onto/puho/ph564 ,tietohallinto ,hallinto ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph573 ,sotaoikeus ,oikeus (oikeudenala) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph573 ,sotaoikeus ,oikeus (oikeudenala) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph580 ,kuumuus ,fysikaaliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph609 ,laatupalkinnot ,palkinnot ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph609 ,laatupalkinnot ,palkinnot ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph619 ,sopimusoikeus ,velvoiteoikeus ,järjestelmät 
+http://www.yso.fi/onto/puho/ph619 ,sopimusoikeus ,velvoiteoikeus ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph621 ,koulutushaarat ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph622 ,elektroniikka ,sähkötekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph622 ,elektroniikka ,sähkötekniikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph653 ,lujuusoppi ,tieteet (erikoisalat) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph653 ,lujuusoppi ,tieteet (erikoisalat) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph678 ,maantiede ,geotieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph678 ,maantiede ,geotieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph70 ,ulkopolitiikka ,politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph70 ,ulkopolitiikka ,politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph759 ,ballistiikka ,dynamiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph759 ,ballistiikka ,dynamiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph791 ,vientiluvat ,luvat ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph791 ,vientiluvat ,luvat ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph810 ,mielenterveyshäiriöt ,taudit ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph812 ,neuroosit ,mielenterveyshäiriöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph813 ,psykoosit ,mielenterveyshäiriöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph826 ,termodynamiikka ,lämpöoppi ,järjestelmät 
+http://www.yso.fi/onto/puho/ph826 ,termodynamiikka ,lämpöoppi ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph842 ,sotilaskuri ,kuri ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph842 ,sotilaskuri ,kuri ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph851 ,asevelvollisuus ,kansalaisvelvollisuudet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph851 ,asevelvollisuus ,kansalaisvelvollisuudet ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph864 ,avaruustekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph864 ,avaruustekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph87 ,pyrotekniikka ,tekniikka (tieteet) ,järjestelmät 
+http://www.yso.fi/onto/puho/ph87 ,pyrotekniikka ,tekniikka (tieteet) ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph902 ,kuri ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph904 ,näkyvä valo ,sähkömagneettinen säteily ,fysikaaliset tapahtumat 
+http://www.yso.fi/onto/puho/ph904 ,näkyvä valo ,sähkömagneettinen säteily ,tapahtumat 
+http://www.yso.fi/onto/puho/ph904 ,näkyvä valo ,sähkömagneettinen säteily ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph910 ,rauhankumppanuus ,suhteet ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph923 ,turvallisuuspolitiikka ,politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph923 ,turvallisuuspolitiikka ,politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph924 ,puolustuspolitiikka ,politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph924 ,puolustuspolitiikka ,politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph925 ,maanpuolustustahto ,yhteiskunnalliset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph926 ,stressi ,biologiset ilmiöt ,tapahtumat ja toiminta 
+http://www.yso.fi/onto/puho/ph942 ,ihmisoikeudet ,oikeudet (edut) ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph942 ,ihmisoikeudet ,oikeudet (edut) ,yhteiskunnalliset objektit 
+http://www.yso.fi/onto/puho/ph945 ,ideologiat ,aatteet ,abstraktit objektit 
+http://www.yso.fi/onto/puho/ph945 ,ideologiat ,aatteet ,kulttuuriset objektit 
+http://www.yso.fi/onto/puho/ph947 ,aseleponeuvottelut ,neuvottelut ,yhteiskunnalliset tapahtumat 
+http://www.yso.fi/onto/puho/ph975 ,merigeologia ,geologia ,järjestelmät 
+http://www.yso.fi/onto/puho/ph975 ,merigeologia ,geologia ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph976 ,geologia ,geotieteet ,järjestelmät 
+http://www.yso.fi/onto/puho/ph976 ,geologia ,geotieteet ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph977 ,geopolitiikka ,poliittinen maantiede ,järjestelmät 
+http://www.yso.fi/onto/puho/ph977 ,geopolitiikka ,poliittinen maantiede ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph978 ,kansainvälinen politiikka ,politiikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph978 ,kansainvälinen politiikka ,politiikka ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph979 ,poliittinen maantiede ,kulttuurimaantiede ,järjestelmät 
+http://www.yso.fi/onto/puho/ph979 ,poliittinen maantiede ,kulttuurimaantiede ,yhteiskunnalliset järjestelmät 
+http://www.yso.fi/onto/puho/ph981 ,kansainväliset suhteet ,suhteet ,ominaisuudet 
+http://www.yso.fi/onto/puho/ph985 ,LVI-tekniikka ,LVIS-tekniikka ,järjestelmät 
+http://www.yso.fi/onto/puho/ph985 ,LVI-tekniikka ,LVIS-tekniikka ,yhteiskunnalliset järjestelmät 
