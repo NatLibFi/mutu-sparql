@@ -10,9 +10,6 @@ from subprocess import Popen, PIPE
 UPLOAD_FOLDER = './up/'
 ALLOWED_EXTENSIONS = set(['ttl', 'nt', 'xml'])
 
-#domain = 'pto-skos.ttl' #sys.argv[1]
-#domain_yso = 'yso-pto.ttl' #sys.argv[2]
-#yso = 'yso.ttl' #sys.argv[3]
 domain = sys.argv[1]
 domain_yso = sys.argv[2]
 yso = sys.argv[3]
@@ -52,9 +49,8 @@ def allowed_file(filename):
 
 class MutuSPARQL:
     def __init__(self):
-        #self.queries = ['0-pref-changed.rq']
-        #self.queries = ['0-pref-changed.rq', '1-same-pref.rq', '2-diff-broad-pref.rq', '3-diff-broader.rq', '4-missing-broader.rq']
-        self.queries = ['0-pref-changed.rq', '1-same-pref.rq']
+        #self.queries = ['0-pref-changed.rq', '1-same-pref.rq']
+        self.queries = ['0-pref-changed.rq', '1-same-pref.rq', '2-diff-broad-pref.rq', '3-diff-broader.rq', '4-missing-broader.rq']
         self.results = {}
         self.col_labels = {'domainc': 'domainc', 'domainPref': 'domainPref', 'pref': 'pref','prefLabel': 'prefLabel','newPref': 'newPref', 'sameNew': 'sameNew', 'sameOld': 'sameOld', 'ysoLinkLab': 'ysoLinkLab', 'ysoBroaderLab': 'ysoBroaderLab', 'broadPref': 'broadPref', 'newPref': 'newPref'}
 
@@ -83,8 +79,6 @@ class MutuSPARQL:
                 for col, value in enumerate(row):
                     prop = col_labels[col]
                     self.add_col_val(uri, prop, value.decode('utf-8'))
-#                pref = row[1].decode('utf-8')
-#               print row
         print(self.results)
 
     def print_results(self):
