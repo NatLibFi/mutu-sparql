@@ -24,6 +24,6 @@ WHERE {
   }
   FILTER NOT EXISTS { ?domainc skos:exactMatch ?sameOld }
   FILTER NOT EXISTS { ?domainc skos:exactMatch ?sameNew }
-  OILTER NOT EXISTS { GRAPH ?yso { ?sameOld owl:deprecated true . } }
+  FILTER NOT EXISTS { GRAPH ?yso { ?sameOld owl:deprecated true . } }
   FILTER NOT EXISTS { GRAPH ?yso { ?sameNew owl:deprecated true . } }
 } ORDER BY ?domainc
