@@ -45,17 +45,14 @@ class MutuSPARQL:
                     self.add_col_val(uri, prop, value.decode('utf-8'))
 
     def print_results(self):
-        print(';'.join(self.col_labels.values()))
+        cols = self.col_labels.keys()
+        writer = csv.writer(sys.stdout)
+        writer.writerow([self.col_labels[col] for col in cols])
         for uri in self.results:
-            row = ''
-            for col in self.results[uri]:
-                values = ''
-                for i, val in enumerate(self.results[uri][col]):
-                    if i > 0 and i < len(self.results[uri][col]):
-                        values += ','
-                    values += val
-                row += values + ';'
-            print(row.encode('UTF-8'))
+            vals = []
+            for col in cols:
+                vals.append(','.join(self.results[uri][col]).encode('UTF-8'))
+            writer.writerow(vals)
 
 mutu = MutuSPARQL()
 mutu.run_sparqls()
