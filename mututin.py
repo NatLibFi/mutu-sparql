@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import csv, os, sys, rdflib, subprocess
-from flask import Flask, request, redirect, url_for, render_template, send_from_directory
-from werkzeug.utils import secure_filename
-from werkzeug import SharedDataMiddleware
+import csv
+import os
+import sys
+import rdflib
+import subprocess
+import collections
 from subprocess import Popen, PIPE
 
 domain = sys.argv[1]
@@ -20,9 +22,7 @@ class MutuSPARQL:
 
     def add_col_val(self, uri, prop,value):
         if uri not in self.results:
-            self.results[uri] = {'domainc': [], 'domainPref': [], 'pref': [],'prefLabel': [],'newPref': [], 'sameNew': [], 'sameold': []}
-        if prop not in self.results[uri]:
-            print('ERROR: missing property ' + prop)
+            self.results[uri] = collections.defaultdict(list)
         if value not in self.results[uri][prop]:
             self.results[uri][prop].append(value)
 
