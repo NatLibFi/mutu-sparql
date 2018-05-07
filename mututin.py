@@ -43,7 +43,6 @@ class MutuSPARQL:
                 for col, value in enumerate(row):
                     prop = col_labels[col]
                     self.add_col_val(uri, prop, value.decode('utf-8'))
-        print(self.results)
 
     def print_results(self):
         print(';'.join(self.col_labels.values()))
@@ -56,7 +55,7 @@ class MutuSPARQL:
                         values += ','
                     values += val
                 row += values + ';'
-            print(row)
+            print(row.encode('UTF-8'))
 
 mutu = MutuSPARQL()
 mutu.run_sparqls()
